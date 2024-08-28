@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
   <a href="https://github.com/Zettlr/Zettlr">
     <img src="https://raw.githubusercontent.com/Zettlr/Zettlr/master/resources/icons/png/256x256.png" alt="Zettlr"/>
   </a>
